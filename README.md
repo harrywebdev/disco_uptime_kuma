@@ -2,7 +2,7 @@
 
 [Uptime Kuma](https://github.com/louislam/uptime-kuma) deployed to a self-hosted [Disco.cloud](https://disco.cloud) server.
 
-- Image: `louislam/uptime-kuma:1`
+- Image: `louislam/uptime-kuma:2`
 - Public port: `3001`
 - Persistent volume: `uptime-kuma-data` mounted at `/app/data` (SQLite DB, configs, screenshots)
 - Domain: **<your_domain.com>**
